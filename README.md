@@ -1,2 +1,2 @@
-![Challenge Completed!](./IBM_quantum challenge_complete.png)
+![Alt Text](path/to/image.png)
 
